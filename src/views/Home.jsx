@@ -26,7 +26,7 @@ const Home = () => {
           <div className="sm:text-center lg:text-left">
             <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
               <motion.span
-                className={darkMode ? "block text-black" : " text-white"}
+                className={darkMode ? "block text-black" : "block text-white"}
               >
                 Hi, I am Andrei
               </motion.span>
